@@ -1,7 +1,7 @@
 # Nutrition-Agent
 An AI-powered conversational agent designed to be a personal nutrition assistant, making healthy eating simple, accessible, and personalized.
 
-##Problem Statement
+## Problem Statement
 Individuals, health enthusiasts, and patients often struggle to manage their dietary habits due to confusing nutritional information, the tedious task of manual food logging, and the lack of personalized, timely advice. Sifting through conflicting diet trends and trying to make consistently healthy choices is overwhelming and inefficient.
 Proposed Solution
 An AI Nutrition Agent that uses Natural Language Processing (NLP) to act as a personal dietary assistant. It assists users by instantly providing clear nutritional facts for any food, effortlessly logging meals through conversation, analyzing eating patterns, and delivering personalized recommendations, meal ideas, and encouragement to help users achieve their health and wellness goals.
